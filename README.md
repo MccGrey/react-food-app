@@ -11,9 +11,9 @@ The chow app
 
 ## Overview
 
-![Algorithm schema](Screenshot (135).png)
+![Algorithm schema](deom.png)
 
-![Algorithm schema](Screenshot (136).png)
+![Algorithm schema](deom1.png)
 
 ### Links
 
