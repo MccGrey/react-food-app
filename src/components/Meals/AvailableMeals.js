@@ -6,26 +6,26 @@ import MealItem from "./MealItem/MealItem";
 const DUMMY_MEALS = [
   {
     id: "m1",
-    name: "Sushi",
-    description: "Finest fish and veggies",
+    name: "Nigerian jollof",
+    description: "Finest grainny party jollof",
     price: 22.99,
   },
   {
     id: "m2",
-    name: "Schnitzel",
-    description: "A german specialty!",
+    name: "vegetable soup",
+    description: "thick leafy whole meal",
     price: 16.5,
   },
   {
     id: "m3",
-    name: "Barbecue Burger",
-    description: "American, raw, meaty",
+    name: "Nkwobi",
+    description: "Tasty sauced cow leg",
     price: 12.99,
   },
   {
     id: "m4",
-    name: "Green Bowl",
-    description: "Healthy...and green...",
+    name: "Fish Barbecue",
+    description: "Healthy...and spicy...",
     price: 18.99,
   },
 ];
