@@ -17,7 +17,7 @@ The chow app
 
 ### Links
 
-- Live Site URL: [MccGre-Kanban-App](https://mccgrey-kanbanapp.netlify.app/)
+- Live Site URL: [MccGrey-chow-app](https://mccgreychows.netlify.app/)
 
 ### Built with
 
